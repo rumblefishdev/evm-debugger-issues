@@ -1,8 +1,8 @@
 # Description
-Github repository to maintain [evm-debugger](https://www.rumblefish.dev/evm-debugger/) issues raised by users
+Github repository to maintain [evm-debugger](https://www.rumblefish.dev/evm-debugger/) issues raised by users.
 
-# How to raise a issue
+# How to raise an issue
 
-Enter this [link](https://github.com/rumblefishdev/evm-debugger-issues/issues/new/choose) and pick proper template for your
-request
+To help us provide better service please raise 
+[new issue](https://github.com/rumblefishdev/evm-debugger-issues/issues/new/choose).
 
