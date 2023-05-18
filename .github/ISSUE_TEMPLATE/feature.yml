@@ -1,7 +1,7 @@
 name: 💡 Feature
 description: File an idea/upgradement
 title: "[FEATURE] <title>"
-labels: [enhancement]
+labels: [enhancement, external]
 body:
   - type: textarea
     attributes:
